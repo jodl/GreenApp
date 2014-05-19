@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">GreenApp</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Greeting message for the Green Application</string>
     <string name="action_settings">Settings</string>
 
 </resources>
